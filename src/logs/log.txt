@@ -1,2 +1,241 @@
-2024-03-17 12:47:52 - __main__ - INFO - Loading data from data\diabetes.csv
-2024-03-17 12:47:52 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:03:24 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:03:24 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:03:24 - root - INFO - Read train and test data completed
+2024-03-17 21:03:24 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:03:24 - root - INFO - Creating preprocessor
+2024-03-17 21:03:24 - root - INFO - Categorical columns: []
+2024-03-17 21:03:24 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:03:24 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:03:24 - root - INFO - Saved preprocessing object.
+2024-03-17 21:04:49 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:04:49 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:04:49 - root - INFO - Read train and test data completed
+2024-03-17 21:04:49 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:04:49 - root - INFO - Creating preprocessor
+2024-03-17 21:04:49 - root - INFO - Categorical columns: []
+2024-03-17 21:04:49 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:04:49 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:04:49 - root - INFO - Saved preprocessing object.
+2024-03-17 21:04:49 - src.components.model_trainer - ERROR - Error training model: (slice(None, None, None), slice(None, -1, None))
+2024-03-17 21:12:01 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:12:01 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:12:01 - root - INFO - Read train and test data completed
+2024-03-17 21:12:01 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:12:01 - root - INFO - Creating preprocessor
+2024-03-17 21:12:01 - root - INFO - Categorical columns: []
+2024-03-17 21:12:01 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:12:01 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:12:01 - root - INFO - Saved preprocessing object.
+2024-03-17 21:14:17 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:14:17 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:14:17 - root - INFO - Read train and test data completed
+2024-03-17 21:14:17 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:14:17 - root - INFO - Creating preprocessor
+2024-03-17 21:14:17 - root - INFO - Categorical columns: []
+2024-03-17 21:14:17 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:14:17 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:14:17 - root - INFO - Saved preprocessing object.
+2024-03-17 21:14:17 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 21:16:28 - src.components.model_trainer - INFO - Training model
+2024-03-17 21:16:28 - src.components.model_trainer - INFO - Best model: GaussianNB
+2024-03-17 21:16:28 - src.components.model_trainer - INFO - Model accuracy: 0.7662337662337663
+2024-03-17 21:16:28 - src.components.model_trainer - ERROR - Model accuracy is less than 80%
+2024-03-17 21:17:34 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:17:34 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:17:34 - root - INFO - Read train and test data completed
+2024-03-17 21:17:34 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:17:34 - root - INFO - Creating preprocessor
+2024-03-17 21:17:34 - root - INFO - Categorical columns: []
+2024-03-17 21:17:34 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:17:34 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:17:34 - root - INFO - Saved preprocessing object.
+2024-03-17 21:17:34 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 21:19:57 - src.components.model_trainer - INFO - Training model
+2024-03-17 21:19:57 - src.components.model_trainer - INFO - Best model: GaussianNB
+2024-03-17 21:19:57 - src.components.model_trainer - INFO - Model accuracy: 0.7662337662337663
+2024-03-17 21:19:57 - src.components.model_trainer - ERROR - Model accuracy is less than 80%
+2024-03-17 21:21:31 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:21:31 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:21:31 - root - INFO - Read train and test data completed
+2024-03-17 21:21:31 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:21:31 - root - INFO - Creating preprocessor
+2024-03-17 21:21:31 - root - INFO - Categorical columns: []
+2024-03-17 21:21:31 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:21:31 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:21:31 - root - INFO - Saved preprocessing object.
+2024-03-17 21:21:31 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 21:22:30 - src.components.model_trainer - INFO - Training model
+2024-03-17 21:22:30 - src.components.model_trainer - INFO - Best model: LogisticRegression
+2024-03-17 21:22:30 - src.components.model_trainer - INFO - Model accuracy: 0.7662337662337663
+2024-03-17 21:22:30 - src.components.model_trainer - ERROR - Model accuracy is less than 80%
+2024-03-17 21:24:10 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:24:10 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:24:10 - root - INFO - Read train and test data completed
+2024-03-17 21:24:10 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:24:10 - root - INFO - Creating preprocessor
+2024-03-17 21:24:10 - root - INFO - Categorical columns: []
+2024-03-17 21:24:10 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:24:10 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:24:10 - root - INFO - Saved preprocessing object.
+2024-03-17 21:24:10 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 21:25:08 - src.components.model_trainer - INFO - Training model
+2024-03-17 21:25:08 - src.components.model_trainer - INFO - Best model: AdaBoostClassifier
+2024-03-17 21:25:08 - src.components.model_trainer - INFO - Model accuracy: 0.7792207792207793
+2024-03-17 21:25:08 - src.components.model_trainer - ERROR - Model accuracy is less than 80%
+2024-03-17 21:25:16 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:25:16 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:25:16 - root - INFO - Read train and test data completed
+2024-03-17 21:25:16 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:25:16 - root - INFO - Creating preprocessor
+2024-03-17 21:25:16 - root - INFO - Categorical columns: []
+2024-03-17 21:25:16 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:25:16 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:25:16 - root - INFO - Saved preprocessing object.
+2024-03-17 21:25:16 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 21:26:11 - src.components.model_trainer - INFO - Training model
+2024-03-17 21:26:11 - src.components.model_trainer - INFO - Best model: AdaBoostClassifier
+2024-03-17 21:26:11 - src.components.model_trainer - INFO - Model accuracy: 0.7792207792207793
+2024-03-17 21:26:11 - src.components.model_trainer - ERROR - Model accuracy is less than 80%
+2024-03-17 21:31:45 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:31:45 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:31:45 - root - INFO - Read train and test data completed
+2024-03-17 21:31:45 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:31:45 - root - INFO - Creating preprocessor
+2024-03-17 21:31:45 - root - INFO - Categorical columns: []
+2024-03-17 21:31:45 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:31:45 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:31:45 - root - INFO - Saved preprocessing object.
+2024-03-17 21:31:45 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 21:32:39 - src.components.model_trainer - INFO - Training model
+2024-03-17 21:32:39 - src.components.model_trainer - INFO - Best model: AdaBoostClassifier
+2024-03-17 21:32:39 - src.components.model_trainer - INFO - Model accuracy: 0.7792207792207793
+2024-03-17 21:32:39 - src.components.model_trainer - INFO - Model trained successfully and saved to artifacts\model.pkl
+2024-03-17 21:44:47 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:44:47 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:44:47 - root - INFO - Read train and test data completed
+2024-03-17 21:44:47 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:44:47 - root - INFO - Creating preprocessor
+2024-03-17 21:44:47 - root - INFO - Categorical columns: []
+2024-03-17 21:44:47 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:44:47 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:44:47 - root - INFO - Saved preprocessing object.
+2024-03-17 21:44:47 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 21:45:39 - src.components.model_trainer - INFO - Training model
+2024-03-17 21:45:39 - src.components.model_trainer - INFO - Best model: AdaBoostClassifier
+2024-03-17 21:45:40 - src.components.model_trainer - INFO - Model accuracy: 0.7792207792207793
+2024-03-17 21:45:40 - src.components.model_trainer - INFO - Model trained successfully and saved to artifacts\model.pkl
+2024-03-17 21:47:29 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:47:29 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:47:29 - root - INFO - Read train and test data completed
+2024-03-17 21:47:29 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:47:29 - root - INFO - Creating preprocessor
+2024-03-17 21:47:29 - root - INFO - Categorical columns: []
+2024-03-17 21:47:29 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:47:29 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:47:29 - root - INFO - Saved preprocessing object.
+2024-03-17 21:47:29 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 21:48:23 - src.components.model_trainer - INFO - Training model
+2024-03-17 21:48:23 - src.components.model_trainer - INFO - Best model: AdaBoostClassifier
+2024-03-17 21:48:23 - src.components.model_trainer - INFO - Model accuracy: 0.7792207792207793
+2024-03-17 21:48:23 - src.components.model_trainer - INFO - Model trained successfully and saved to artifacts\model.pkl
+2024-03-17 21:53:01 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:53:01 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:53:01 - root - INFO - Read train and test data completed
+2024-03-17 21:53:01 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:53:01 - root - INFO - Creating preprocessor
+2024-03-17 21:53:01 - root - INFO - Categorical columns: []
+2024-03-17 21:53:01 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:53:01 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:53:01 - root - INFO - Saved preprocessing object.
+2024-03-17 21:53:01 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 21:53:55 - src.components.model_trainer - INFO - Training model
+2024-03-17 21:53:55 - src.components.model_trainer - INFO - Best model: AdaBoostClassifier
+2024-03-17 21:53:55 - src.components.model_trainer - INFO - Model accuracy: 0.7792207792207793
+2024-03-17 21:53:55 - src.components.model_trainer - INFO - Model trained successfully and saved to artifacts\model.pkl
+2024-03-17 21:57:59 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:57:59 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:57:59 - root - INFO - Read train and test data completed
+2024-03-17 21:57:59 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:57:59 - root - INFO - Creating preprocessor
+2024-03-17 21:57:59 - root - INFO - Categorical columns: []
+2024-03-17 21:57:59 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:57:59 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:57:59 - root - INFO - Saved preprocessing object.
+2024-03-17 21:57:59 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 21:58:54 - src.components.model_trainer - INFO - Training model
+2024-03-17 21:58:54 - src.components.model_trainer - INFO - Best model: AdaBoostClassifier
+2024-03-17 21:58:55 - src.components.model_trainer - INFO - Model accuracy: 0.7792207792207793
+2024-03-17 21:58:55 - src.components.model_trainer - INFO - Model trained successfully and saved to artifacts\model.pkl
+2024-03-17 21:59:30 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 21:59:30 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 21:59:30 - root - INFO - Read train and test data completed
+2024-03-17 21:59:30 - root - INFO - Obtaining preprocessing object
+2024-03-17 21:59:30 - root - INFO - Creating preprocessor
+2024-03-17 21:59:30 - root - INFO - Categorical columns: []
+2024-03-17 21:59:30 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 21:59:30 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 21:59:30 - root - INFO - Saved preprocessing object.
+2024-03-17 21:59:30 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 22:00:24 - src.components.model_trainer - INFO - Training model
+2024-03-17 22:00:24 - src.components.model_trainer - INFO - Best model: AdaBoostClassifier
+2024-03-17 22:00:24 - src.components.model_trainer - INFO - Model accuracy: 0.7792207792207793
+2024-03-17 22:00:24 - src.components.model_trainer - INFO - Model trained successfully and saved to artifacts\model.pkl
+2024-03-17 22:01:49 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 22:01:49 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 22:01:49 - root - INFO - Read train and test data completed
+2024-03-17 22:01:49 - root - INFO - Obtaining preprocessing object
+2024-03-17 22:01:49 - root - INFO - Creating preprocessor
+2024-03-17 22:01:49 - root - INFO - Categorical columns: []
+2024-03-17 22:01:49 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 22:01:49 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 22:01:49 - root - INFO - Saved preprocessing object.
+2024-03-17 22:03:13 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 22:03:13 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 22:03:13 - root - INFO - Read train and test data completed
+2024-03-17 22:03:13 - root - INFO - Obtaining preprocessing object
+2024-03-17 22:03:13 - root - INFO - Creating preprocessor
+2024-03-17 22:03:13 - root - INFO - Categorical columns: []
+2024-03-17 22:03:13 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 22:03:13 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 22:03:13 - root - INFO - Saved preprocessing object.
+2024-03-17 22:03:13 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 22:05:18 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 22:05:18 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 22:05:18 - root - INFO - Read train and test data completed
+2024-03-17 22:05:18 - root - INFO - Obtaining preprocessing object
+2024-03-17 22:05:18 - root - INFO - Creating preprocessor
+2024-03-17 22:05:18 - root - INFO - Categorical columns: []
+2024-03-17 22:05:18 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 22:05:18 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 22:05:18 - root - INFO - Saved preprocessing object.
+2024-03-17 22:05:18 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 22:07:31 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 22:07:31 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 22:07:31 - root - INFO - Read train and test data completed
+2024-03-17 22:07:31 - root - INFO - Obtaining preprocessing object
+2024-03-17 22:07:31 - root - INFO - Creating preprocessor
+2024-03-17 22:07:31 - root - INFO - Categorical columns: []
+2024-03-17 22:07:31 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 22:07:31 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 22:07:31 - root - INFO - Saved preprocessing object.
+2024-03-17 22:07:31 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 22:09:45 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 22:09:45 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 22:09:45 - root - INFO - Read train and test data completed
+2024-03-17 22:09:45 - root - INFO - Obtaining preprocessing object
+2024-03-17 22:09:45 - root - INFO - Creating preprocessor
+2024-03-17 22:09:45 - root - INFO - Categorical columns: []
+2024-03-17 22:09:45 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 22:09:45 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 22:09:45 - root - INFO - Saved preprocessing object.
+2024-03-17 22:09:45 - src.components.model_trainer - INFO - Evaluating models
+2024-03-17 22:11:43 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 22:11:43 - __main__ - INFO - Splitting data into train and test sets
+2024-03-17 22:11:43 - root - INFO - Read train and test data completed
+2024-03-17 22:11:43 - root - INFO - Obtaining preprocessing object
+2024-03-17 22:11:43 - root - INFO - Creating preprocessor
+2024-03-17 22:11:43 - root - INFO - Categorical columns: []
+2024-03-17 22:11:43 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-17 22:11:43 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-17 22:11:43 - root - INFO - Saved preprocessing object.
+2024-03-17 22:11:43 - src.components.model_trainer - INFO - Evaluating models
