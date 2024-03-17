@@ -1,0 +1,2 @@
+2024-03-17 12:47:52 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-17 12:47:52 - __main__ - INFO - Splitting data into train and test sets
