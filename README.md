@@ -20,8 +20,8 @@ Once the model is trained, you can use it to make predictions on new data. You c
 
 ## Model Deployment
 
-The trained model can be deployed locally using Flask to create a REST API for serving predictions. To deploy the model and make predictions on new data, run the `predict.py` script:
-`python predict.py`
+The trained model can be deployed locally using Flask to create a REST API for serving predictions. To deploy the model and make predictions on new data, run the `app.py` script:
+`python app.py`
 
 
 ![](main.png)
