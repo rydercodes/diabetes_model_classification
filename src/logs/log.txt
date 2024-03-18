@@ -269,3 +269,225 @@
 2024-03-18 11:27:43 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
 2024-03-18 11:27:43 - root - INFO - Saved preprocessing object.
 2024-03-18 11:27:43 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 19:21:57 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:21:58 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:21:58 - root - INFO - Read train and test data completed
+2024-03-18 19:21:58 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:21:58 - root - INFO - Creating preprocessor
+2024-03-18 19:21:58 - root - INFO - Categorical columns: []
+2024-03-18 19:21:58 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:21:58 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:21:58 - root - INFO - Saved preprocessing object.
+2024-03-18 19:21:58 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 19:22:02 - src.components.model_trainer - ERROR - Error training model: Error.__init__() missing 1 required positional argument: 'error_detail'
+2024-03-18 19:22:33 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:22:33 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:22:33 - root - INFO - Read train and test data completed
+2024-03-18 19:22:33 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:22:33 - root - INFO - Creating preprocessor
+2024-03-18 19:22:33 - root - INFO - Categorical columns: []
+2024-03-18 19:22:33 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:22:33 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:22:33 - root - INFO - Saved preprocessing object.
+2024-03-18 19:22:33 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 19:22:36 - src.components.model_trainer - ERROR - Error training model: Error.__init__() missing 1 required positional argument: 'error_detail'
+2024-03-18 19:34:33 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:34:33 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:34:33 - root - INFO - Read train and test data completed
+2024-03-18 19:34:33 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:34:33 - root - INFO - Creating preprocessor
+2024-03-18 19:34:33 - root - INFO - Categorical columns: []
+2024-03-18 19:34:33 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:34:33 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:34:33 - root - INFO - Saved preprocessing object.
+2024-03-18 19:34:58 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:34:58 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:34:58 - root - INFO - Read train and test data completed
+2024-03-18 19:34:58 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:34:58 - root - INFO - Creating preprocessor
+2024-03-18 19:34:58 - root - INFO - Categorical columns: []
+2024-03-18 19:34:58 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:34:58 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:34:58 - root - INFO - Saved preprocessing object.
+2024-03-18 19:36:36 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:36:36 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:36:36 - root - INFO - Read train and test data completed
+2024-03-18 19:36:36 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:36:36 - root - INFO - Creating preprocessor
+2024-03-18 19:36:36 - root - INFO - Categorical columns: []
+2024-03-18 19:36:36 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:36:36 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:36:36 - root - INFO - Saved preprocessing object.
+2024-03-18 19:39:00 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:39:00 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:39:00 - root - INFO - Read train and test data completed
+2024-03-18 19:39:00 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:39:00 - root - INFO - Creating preprocessor
+2024-03-18 19:39:00 - root - INFO - Categorical columns: []
+2024-03-18 19:39:00 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:39:00 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:39:00 - root - INFO - Saved preprocessing object.
+2024-03-18 19:39:51 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:39:51 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:39:51 - root - INFO - Read train and test data completed
+2024-03-18 19:39:51 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:39:51 - root - INFO - Creating preprocessor
+2024-03-18 19:39:51 - root - INFO - Categorical columns: []
+2024-03-18 19:39:51 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:39:51 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:39:51 - root - INFO - Saved preprocessing object.
+2024-03-18 19:40:48 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:40:48 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:40:48 - root - INFO - Read train and test data completed
+2024-03-18 19:40:48 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:40:48 - root - INFO - Creating preprocessor
+2024-03-18 19:40:48 - root - INFO - Categorical columns: []
+2024-03-18 19:40:48 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:40:48 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:40:48 - root - INFO - Saved preprocessing object.
+2024-03-18 19:40:48 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 19:40:48 - src.components.model_trainer - ERROR - Error training model: name 'params' is not defined
+2024-03-18 19:42:26 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:42:26 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:42:26 - root - INFO - Read train and test data completed
+2024-03-18 19:42:26 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:42:26 - root - INFO - Creating preprocessor
+2024-03-18 19:42:26 - root - INFO - Categorical columns: []
+2024-03-18 19:42:26 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:42:26 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:42:26 - root - INFO - Saved preprocessing object.
+2024-03-18 19:42:26 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 19:43:09 - src.components.model_trainer - ERROR - Error training model: '>' not supported between instances of 'dict' and 'dict'
+2024-03-18 19:44:30 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:44:30 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:44:30 - root - INFO - Read train and test data completed
+2024-03-18 19:44:30 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:44:30 - root - INFO - Creating preprocessor
+2024-03-18 19:44:30 - root - INFO - Categorical columns: []
+2024-03-18 19:44:30 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:44:30 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:44:30 - root - INFO - Saved preprocessing object.
+2024-03-18 19:44:30 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 19:45:15 - src.components.model_trainer - ERROR - Error training model: 'accuracy'
+2024-03-18 19:47:00 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:47:00 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:47:00 - root - INFO - Read train and test data completed
+2024-03-18 19:47:00 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:47:00 - root - INFO - Creating preprocessor
+2024-03-18 19:47:00 - root - INFO - Categorical columns: []
+2024-03-18 19:47:00 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:47:00 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:47:00 - root - INFO - Saved preprocessing object.
+2024-03-18 19:47:00 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 19:47:44 - root - INFO - Best found model on both training and testing dataset
+2024-03-18 19:47:44 - src.components.model_trainer - ERROR - Error training model: 'ModelTrainer' object has no attribute 'model_trainer_config'
+2024-03-18 19:48:49 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:48:49 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:48:49 - root - INFO - Read train and test data completed
+2024-03-18 19:48:49 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:48:49 - root - INFO - Creating preprocessor
+2024-03-18 19:48:49 - root - INFO - Categorical columns: []
+2024-03-18 19:48:49 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:48:49 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:48:49 - root - INFO - Saved preprocessing object.
+2024-03-18 19:48:49 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 19:49:34 - root - INFO - Best found model on both training and testing dataset
+2024-03-18 19:49:34 - src.components.model_trainer - ERROR - Error training model: save_object() got an unexpected keyword argument 'file_path'
+2024-03-18 19:50:33 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:50:33 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:50:33 - root - INFO - Read train and test data completed
+2024-03-18 19:50:33 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:50:33 - root - INFO - Creating preprocessor
+2024-03-18 19:50:33 - root - INFO - Categorical columns: []
+2024-03-18 19:50:33 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:50:33 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:50:33 - root - INFO - Saved preprocessing object.
+2024-03-18 19:50:33 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 19:51:17 - root - INFO - Best found model on both training and testing dataset
+2024-03-18 19:52:31 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:52:31 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:52:31 - root - INFO - Read train and test data completed
+2024-03-18 19:52:31 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:52:31 - root - INFO - Creating preprocessor
+2024-03-18 19:52:31 - root - INFO - Categorical columns: []
+2024-03-18 19:52:31 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:52:31 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:52:31 - root - INFO - Saved preprocessing object.
+2024-03-18 19:52:31 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 19:54:26 - root - INFO - Best found model on both training and testing dataset
+2024-03-18 19:59:25 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 19:59:25 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 19:59:25 - root - INFO - Read train and test data completed
+2024-03-18 19:59:25 - root - INFO - Obtaining preprocessing object
+2024-03-18 19:59:25 - root - INFO - Creating preprocessor
+2024-03-18 19:59:25 - root - INFO - Categorical columns: []
+2024-03-18 19:59:25 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 19:59:25 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 19:59:25 - root - INFO - Saved preprocessing object.
+2024-03-18 19:59:25 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 20:08:09 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 20:08:09 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 20:08:09 - root - INFO - Read train and test data completed
+2024-03-18 20:08:09 - root - INFO - Obtaining preprocessing object
+2024-03-18 20:08:09 - root - INFO - Creating preprocessor
+2024-03-18 20:08:09 - root - INFO - Categorical columns: []
+2024-03-18 20:08:09 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 20:08:09 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 20:08:09 - root - INFO - Saved preprocessing object.
+2024-03-18 20:08:09 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 20:26:10 - root - INFO - Best found model on both training and testing dataset
+2024-03-18 20:27:38 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 20:27:38 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 20:27:38 - root - INFO - Read train and test data completed
+2024-03-18 20:27:38 - root - INFO - Obtaining preprocessing object
+2024-03-18 20:27:38 - root - INFO - Creating preprocessor
+2024-03-18 20:27:38 - root - INFO - Categorical columns: []
+2024-03-18 20:27:38 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 20:27:38 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 20:27:38 - root - INFO - Saved preprocessing object.
+2024-03-18 20:27:38 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 20:29:33 - root - INFO - Best found model on both training and testing dataset
+2024-03-18 20:31:02 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 20:31:02 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 20:31:02 - root - INFO - Read train and test data completed
+2024-03-18 20:31:02 - root - INFO - Obtaining preprocessing object
+2024-03-18 20:31:02 - root - INFO - Creating preprocessor
+2024-03-18 20:31:02 - root - INFO - Categorical columns: []
+2024-03-18 20:31:02 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 20:31:02 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 20:31:03 - root - INFO - Saved preprocessing object.
+2024-03-18 20:31:03 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 20:31:47 - root - INFO - Best found model on both training and testing dataset
+2024-03-18 20:32:53 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 20:32:53 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 20:32:53 - root - INFO - Read train and test data completed
+2024-03-18 20:32:53 - root - INFO - Obtaining preprocessing object
+2024-03-18 20:32:53 - root - INFO - Creating preprocessor
+2024-03-18 20:32:53 - root - INFO - Categorical columns: []
+2024-03-18 20:32:53 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 20:32:53 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 20:32:53 - root - INFO - Saved preprocessing object.
+2024-03-18 20:32:53 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 20:33:38 - src.components.model_trainer - ERROR - Error training model: too many values to unpack (expected 2)
+2024-03-18 20:38:18 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 20:38:18 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 20:38:18 - root - INFO - Read train and test data completed
+2024-03-18 20:38:18 - root - INFO - Obtaining preprocessing object
+2024-03-18 20:38:18 - root - INFO - Creating preprocessor
+2024-03-18 20:38:18 - root - INFO - Categorical columns: []
+2024-03-18 20:38:18 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 20:38:18 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 20:38:18 - root - INFO - Saved preprocessing object.
+2024-03-18 20:38:18 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 20:39:03 - src.components.model_trainer - ERROR - Error training model: '<' not supported between instances of 'dict' and 'float'
+2024-03-18 20:39:45 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 20:39:45 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 20:39:45 - root - INFO - Read train and test data completed
+2024-03-18 20:39:45 - root - INFO - Obtaining preprocessing object
+2024-03-18 20:39:45 - root - INFO - Creating preprocessor
+2024-03-18 20:39:45 - root - INFO - Categorical columns: []
+2024-03-18 20:39:45 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 20:39:45 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 20:39:45 - root - INFO - Saved preprocessing object.
+2024-03-18 20:39:45 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 20:40:30 - root - INFO - Best found model on both training and testing dataset

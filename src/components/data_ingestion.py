@@ -17,7 +17,6 @@ from src.components.data_transformation import DataTransformationConfig
 
 from src.components.model_trainer import ModelTrainerConfig
 from src.components.model_trainer import ModelTrainer
-from src.utils import save_object
 
 @dataclass
 class DataIngestionConfig:
@@ -67,19 +66,15 @@ if __name__ == '__main__':
 
     train_path = os.path.join('artifacts', 'train.csv')
     test_path = os.path.join('artifacts', 'test.csv')
-    data_transformation.initiate_data_transformation(train_path=train_path, test_path=test_path)
+    X_train, y_train, X_test, y_test, preprocessor_file_path = data_transformation.initiate_data_transformation(train_path=train_path, test_path=test_path)
 
     model_trainer_config = ModelTrainerConfig()
     model_trainer = ModelTrainer(model_trainer_config)
-
-    report = model_trainer.train_model(X_train=train.iloc[:, :-1], y_train=train.iloc[:, -1],
-                                       X_test=test.iloc[:, :-1], y_test=test.iloc[:, -1])
-
-    best_model_name = max(report, key=lambda x: report[x]['test']['accuracy'])
-    print(f"Best model: {best_model_name}")
-    # Assuming report is a dictionary containing evaluation metrics
-    report_df = pd.DataFrame(report).T
-
-    # Print the DataFrame
-    print("Evaluation Metrics:")
-    print(report_df)
+    
+    # Train the model using the preprocessed data
+    accuracy = model_trainer.train_model(X_train=X_train,
+                                         y_train=y_train,
+                                         X_test=X_test,
+                                         y_test=y_test)
+    
+print(f'Accuracy: {accuracy}')
