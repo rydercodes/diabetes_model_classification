@@ -35,7 +35,6 @@ class ModelTrainer:
             models = {
                 'LogisticRegression': LogisticRegression(max_iter=500),
                 'RandomForestClassifier': RandomForestClassifier(),
-                'AdaBoostClassifier': AdaBoostClassifier(),
                 'GradientBoostingClassifier': GradientBoostingClassifier(),
                 'DecisionTreeClassifier': DecisionTreeClassifier(),
                 'KNeighborsClassifier': KNeighborsClassifier(),
@@ -50,10 +49,6 @@ class ModelTrainer:
                     'n_estimators': [10, 100],
                     'max_features': ['sqrt', 'log2'],
                 },
-                'AdaBoostClassifier': {
-                    'n_estimators': [50, 100, 500],
-                    'algorithm': ['SAMME']
-                    },
                 'GradientBoostingClassifier': {
                     'n_estimators': [50, 100, 500],
                     'learning_rate': [0.001, 0.01, 0.1],

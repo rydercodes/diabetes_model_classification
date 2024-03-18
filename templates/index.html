@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>Diagnose Diabetes</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<meta name="color-scheme" content="light only" />
+		<meta name="description" content="Diagnose Diabetes" />
+		<meta property="og:site_name" content="Diagnose Diabetes" />
+		<meta property="og:title" content="Diagnose Diabetes" />
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="Diagnose Diabetes" />
+		<link href="https://fonts.googleapis.com/css2?display=swap&family=Russo+One:ital,wght@0,400;1,400&family=Rubik:ital,wght@0,300;1,300&family=Lexend+Giga:ital,wght@0,100;1,100&family=Source+Sans+Pro:ital,wght@0,300;1,300&family=Raleway:ital,wght@0,600;1,600" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" href="{{ url_for('static', filename='assets/main.css') }}" />
+	</head>
+	<body>
+		<div id="wrapper">
+			<div id="main">
+				<div class="inner">
+					<div id="columns04" class="container columns">
+						<div class="wrapper">
+							<div class="inner">
+								<div>
+									<h1 id="text04">Diagnose Diabetes</h1>
+									<h1 id="text02">This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective is to predict based on diagnostic measurements whether a patient has diabetes.</h1>
+									<p id="text06">{{ prediction_text }}</p>
+								</div>
+								<div>
+									<form enctype="multipart/form-data" id="form01" action="{{ url_for('predict_datapoint')}}" method="post">
+										<div class="inner">
+											<div class="field">
+												<input type="number" name="Pregnancies" id="form01-Pregnancies" placeholder="Pregnancies 0 - 17" maxlength="128" data-category="integer" step="1" min="0" max="17" required />
+											</div>
+											<div class="field">
+												<input type="number" name="Glucose" id="form01-Glucose" placeholder="Glucose 0 - 199" maxlength="128" data-category="integer" step="1" min="0" max="199" required />
+											</div>
+											<div class="field">
+												<input type="number" name="BloodPressure" id="form01-BloodPressure" placeholder="BloodPressure 0 - 122" maxlength="128" data-category="integer" step="1" min="0" max="122" required />
+											</div>
+											<div class="field">
+												<input type="number" name="SkinThickness" id="form01-SkinThickness" placeholder="SkinThickness 0 - 99" maxlength="128" data-category="integer" step="1" min="0" max="99" required />
+											</div>
+											<div class="field">
+												<input type="number" name="Insulin" id="form01-Insulin" placeholder="Insulin 0- 846" maxlength="128" data-category="integer" step="1" min="0" max="846" required />
+											</div>
+											<div class="field">
+												<input type="number" name="BMI" id="form01-BMI" placeholder="BMI 0 - 67.1" maxlength="128" data-category="decimal" step="any" min="0" max="67.1" required />
+											</div>
+											<div class="field">
+												<input type="number" name="DiabetesPedigreeFunction" id="form01-DiabetesPedigreeFunction" placeholder="DiabetesPedigreeFunction 0.078 - 2.42" maxlength="128" data-category="decimal" step="any" min="0.078" max="2.42" required />
+											</div>
+											<div class="field">
+												<input type="number" name="Age" id="form01-Age" placeholder="Age 21 - 81" maxlength="128" data-category="integer" step="1" min="21" max="81" required />
+											</div>
+											<div class="actions">
+												<button type="submit">Predict</button>
+											</div>
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+					<h1 id="text05">© RyderCodes. All rights reserved.</h1>
+				</div>
+			</div>
+		</div>
+		<script src="{{ url_for('static', filename='assets/main.js') }}"></script>
+	</body>
+</html>

@@ -239,3 +239,33 @@
 2024-03-17 22:11:43 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
 2024-03-17 22:11:43 - root - INFO - Saved preprocessing object.
 2024-03-17 22:11:43 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 11:25:31 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 11:25:31 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 11:25:31 - root - INFO - Read train and test data completed
+2024-03-18 11:25:31 - root - INFO - Obtaining preprocessing object
+2024-03-18 11:25:31 - root - INFO - Creating preprocessor
+2024-03-18 11:25:31 - root - INFO - Categorical columns: []
+2024-03-18 11:25:31 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 11:25:31 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 11:25:31 - root - INFO - Saved preprocessing object.
+2024-03-18 11:25:31 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 11:26:46 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 11:26:46 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 11:26:46 - root - INFO - Read train and test data completed
+2024-03-18 11:26:46 - root - INFO - Obtaining preprocessing object
+2024-03-18 11:26:46 - root - INFO - Creating preprocessor
+2024-03-18 11:26:46 - root - INFO - Categorical columns: []
+2024-03-18 11:26:46 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 11:26:46 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 11:26:46 - root - INFO - Saved preprocessing object.
+2024-03-18 11:26:46 - src.components.model_trainer - INFO - Evaluating models
+2024-03-18 11:27:43 - __main__ - INFO - Loading data from data\diabetes.csv
+2024-03-18 11:27:43 - __main__ - INFO - Splitting data into train and test sets
+2024-03-18 11:27:43 - root - INFO - Read train and test data completed
+2024-03-18 11:27:43 - root - INFO - Obtaining preprocessing object
+2024-03-18 11:27:43 - root - INFO - Creating preprocessor
+2024-03-18 11:27:43 - root - INFO - Categorical columns: []
+2024-03-18 11:27:43 - root - INFO - Numerical columns: ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
+2024-03-18 11:27:43 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+2024-03-18 11:27:43 - root - INFO - Saved preprocessing object.
+2024-03-18 11:27:43 - src.components.model_trainer - INFO - Evaluating models
